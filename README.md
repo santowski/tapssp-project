@@ -1,5 +1,7 @@
 # tapssp-project
 
+[DEMO VIDEO](https://youtu.be/wQ8SyCskwUw)
+
 ## PNG Encoder in Rust
 
 PNG is an image file format specified by [W3C](https://www.w3.org/TR/png-3/). The goal of this project is to build a basic PNG encoder in Rust.
