@@ -1,6 +1,6 @@
 # tapssp-project
 
-[DEMO VIDEO](https://youtu.be/wQ8SyCskwUw)
+[DEMO VIDEO](https://youtu.be/7r-RZSLSHyU)
 
 ## PNG Encoder in Rust
 
